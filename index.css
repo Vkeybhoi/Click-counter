@@ -1,0 +1,32 @@
+body {
+  background-image: url( r.jpg);
+  background-attachment: fixed;
+  background-size: 100% 100vh;
+  height: 100vh;
+}
+.tag1 {
+  text-align: center;
+  padding-top: 15px;
+  box-sizing: border-box;
+  margin: 70px 30%;
+}
+.tag3 {
+  border: 1px solid black;
+  border-width: 2px;
+  border-style: solid;
+  background-image: url(https://pixabay.com/get/g258fe95c01a6c6f632f853a4012002072f1a04406d4872ed35b1ff795c330301345c1aac7426cefcc8476d8d72070d5a93081c996d50a95e2823ca3dc6fd0636_1280.jpg);
+  background-size: cover;
+  border-radius: 10px;
+}
+
+h1 {
+  margin: 30px;
+}
+textarea {
+  width: 200px;
+  height: 100px;
+  resize: none;
+}
+.tag2 {
+  margin: 10px;
+}
